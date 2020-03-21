@@ -1,6 +1,6 @@
 # Git-Basics
 <br>
-first of select/create your working directory
+first of select/create your working directory<br>
 git init in your working directory
 create a file in your working directory
 for eg in this case git.py 
